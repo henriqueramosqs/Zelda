@@ -1,21 +1,14 @@
 # Zelda
 
 This repository contains a Java game insipred in the first model of the Zelda series, which features four walkable maps, two types of enemies, and limited life system. To play it, the user might use 'W', 'A', 'S' and 'D' keys to move and press 'K' to attack with the sword. 
+<p align="center">
+  <img src="https://github.com/henriqueramosqs/Zelda/blob/main/Zelda.png?raw=true" width="400"/>
+</p>
 
 ## Intallation and runnning 
  To play the game, clone this repository and run 
  
 	java -XX:+ShowCodeDetailsInExceptionMessages -cp {path_to_game_directory}/bin main.App
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
 ## Technologies Used
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
