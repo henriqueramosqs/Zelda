@@ -4,7 +4,7 @@ This repository contains a Java game insipred in the first model of the Zelda se
 
 ## Intallation and runnning 
  To play the game, clone this repository and run 
-&nbsp; java -XX:+ShowCodeDetailsInExceptionMessages -cp {path_to_game_directory}/bin main.App
+	&nbsp;java -XX:+ShowCodeDetailsInExceptionMessages -cp {path_to_game_directory}/bin main.App
 ## Folder Structure
 
 The workspace contains two folders by default, where:
@@ -17,7 +17,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
 ## Technologies Used
-	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ## Developers
  &nbsp; <a href= "https://github.com/jacckk7">Breno Costa</a>
