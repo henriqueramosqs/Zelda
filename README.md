@@ -5,7 +5,7 @@ This repository contains a Java game insipred in the first model of the Zelda se
 ## Intallation and runnning 
  To play the game, clone this repository and run 
  
-	`java -XX:+ShowCodeDetailsInExceptionMessages -cp {path_to_game_directory}/bin main.App`
+	java -XX:+ShowCodeDetailsInExceptionMessages -cp {path_to_game_directory}/bin main.App
 ## Folder Structure
 
 The workspace contains two folders by default, where:
