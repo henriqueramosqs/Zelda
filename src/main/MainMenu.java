@@ -42,27 +42,24 @@ public class MainMenu extends JFrame {
         auxPanel.setLayout(new BoxLayout(auxPanel, BoxLayout.PAGE_AXIS));
         auxPanel.setBackground(backgroundColor);
 
-<<<<<<< HEAD
         startButton = new JButton("  START  ");
-=======
         nameField = new JTextField("Link");
         auxPanel.add(nameField);
 
         startButton = new JButton("START");
->>>>>>> 91ca47fe78f8014c05cd0c641e4a20391949f6b9
         startButton.setForeground(detailColor);
 
         auxPanel.add(startButton);
 
-        rankingButton = new JButton("RANKING");
-        rankingButton.setForeground(detailColor);
-        auxPanel.add(rankingButton);
+        // rankingButton = new JButton("RANKING");
+        // rankingButton.setForeground(detailColor);
+        // auxPanel.add(rankingButton);
 
         StartHandler sh = new StartHandler();
         startButton.addActionListener(sh);
 
-        RankingHandler rh = new RankingHandler();
-        rankingButton.addActionListener(rh);
+        // RankingHandler rh = new RankingHandler();
+        // rankingButton.addActionListener(rh);
 
         add(auxPanel);
     }

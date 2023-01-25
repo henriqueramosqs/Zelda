@@ -1,0 +1,133 @@
+2023.01.24 22:03:26 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/henriqueramos.qs/Documents/Codes/Zelda/.metals/lsp.trace.json or /Users/henriqueramos.qs/Library/Caches/org.scalameta.metals/lsp.trace.json[0m
+2023.01.24 22:03:27 INFO  logging to file /Users/henriqueramos.qs/Documents/Codes/Zelda/.metals/metals.log[0m
+2023.01.24 22:03:27 INFO  Started: Metals version 0.11.10 in workspace '/Users/henriqueramos.qs/Documents/Codes/Zelda' for client Visual Studio Code 1.74.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/henriqueramos.qs/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.24 22:03:29 INFO  time: initialize in 1.8s[0m
+2023.01.24 22:03:29 WARN  Build server is not auto-connectable.[0m
+2023.01.24 22:03:29 WARN  no build tool detected in workspace '/Users/henriqueramos.qs/Documents/Codes/Zelda'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.01.24 22:03:30 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/App.java[0m
+2023.01.24 22:03:31 INFO  time: code lens generation in 1.05s[0m
+jan 24, 2023 10:04:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 13
+2023.01.24 22:04:19 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/App.java[0m
+2023.01.24 22:04:21 INFO  time: code lens generation in 1.2s[0m
+2023.01.24 22:13:14 INFO  shutting down Metals[0m
+2023.01.24 22:16:24 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/henriqueramos.qs/Documents/Codes/Zelda/.metals/lsp.trace.json or /Users/henriqueramos.qs/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.01.24 22:16:24 INFO  logging to file /Users/henriqueramos.qs/Documents/Codes/Zelda/.metals/metals.log
+2023.01.24 22:16:24 INFO  Started: Metals version 0.11.10 in workspace '/Users/henriqueramos.qs/Documents/Codes/Zelda' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/henriqueramos.qs/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.24 22:16:26 INFO  time: initialize in 1.68s
+2023.01.24 22:16:27 WARN  Build server is not auto-connectable.
+2023.01.24 22:16:27 WARN  no build tool detected in workspace '/Users/henriqueramos.qs/Documents/Codes/Zelda'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.01.24 22:16:27 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/App.java
+2023.01.24 22:16:29 INFO  time: code lens generation in 1.28s
+2023.01.24 22:16:36 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/entities/Hearts.java
+2023.01.24 22:16:37 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/entities/Player.java
+2023.01.24 22:16:39 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/entities/Hearts.java
+2023.01.24 22:16:40 INFO  time: code lens generation in 2.53s
+2023.01.24 22:16:40 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/entities/Character.java
+2023.01.24 22:16:41 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/entities/EnemyRanged.java
+2023.01.24 22:16:43 INFO  time: code lens generation in 1.08s
+2023.01.24 22:16:58 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/entities/Player.java
+2023.01.24 22:16:59 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/entities/Player.java
+2023.01.24 22:17:08 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/App.java
+2023.01.24 22:17:09 WARN  Running javac-semanticdb failed for file:///Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/App.java. Output:
+/Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/App.java:15: error: '.' expected
+import entities;
+               ^
+/Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/App.java:15: error: ';' expected
+import entities;
+                ^
+/Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/App.java:16: error: class, interface, or enum expected
+import entities.EnemyRanged;
+       ^
+3 errors
+2023.01.24 22:17:12 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/App.java
+2023.01.24 22:17:13 INFO  time: code lens generation in 1.23s
+2023.01.24 22:17:13 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/entities/EnemyMeele.java
+2023.01.24 22:17:15 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/entities/EnemyMeele.java
+2023.01.24 22:19:11 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/App.java
+2023.01.24 22:19:13 INFO  time: code lens generation in 1.31s
+2023.01.24 22:19:13 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/App.java
+2023.01.24 22:19:14 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/App.java
+2023.01.24 22:19:16 INFO  time: code lens generation in 1.17s
+jan 24, 2023 10:22:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 110
+2023.01.24 22:22:11 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java
+2023.01.24 22:22:12 WARN  Running javac-semanticdb failed for file:///Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java. Output:
+/Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java:45: error: illegal start of expression
+<<<<<<< HEAD
+^
+/Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java:45: error: illegal start of expression
+<<<<<<< HEAD
+  ^
+/Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java:45: error: illegal start of expression
+<<<<<<< HEAD
+    ^
+/Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java:46: error: > expected
+        startButton = new JButton("  START  ");
+        ^
+/Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java:47: error: illegal start of expression
+=======
+^
+/Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java:47: error: illegal start of expression
+=======
+  ^
+/Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java:47: error: illegal start of expression
+=======
+    ^
+/Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java:47: error: illegal start of expression
+=======
+      ^
+/Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java:52: error: illegal start of expression
+>>>>>>> 91ca47fe78f8014c05cd0c641e4a20391949f6b9
+^
+/Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java:52: error: illegal start of expression
+>>>>>>> 91ca47fe78f8014c05cd0c641e4a20391949f6b9
+   ^
+/Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java:52: error: illegal start of expression
+>>>>>>> 91ca47fe78f8014c05cd0c641e4a20391949f6b9
+      ^
+/Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java:52: error: ';' expected
+>>>>>>> 91ca47fe78f8014c05cd0c641e4a20391949f6b9
+          ^
+/Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java:53: error: ';' expected
+        startButton.setForeground(detailColor);
+                   ^
+13 errors
+2023.01.24 22:23:07 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java
+2023.01.24 22:23:08 INFO  time: code lens generation in 1.05s
+2023.01.24 22:24:14 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java
+2023.01.24 22:24:15 INFO  time: code lens generation in 1.05s
+2023.01.24 22:24:20 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java
+2023.01.24 22:24:22 INFO  time: code lens generation in 1.01s
+2023.01.24 22:25:00 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/App.java
+2023.01.24 22:25:01 INFO  time: code lens generation in 1.37s
+2023.01.24 22:25:31 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/MainMenu.java
+jan 24, 2023 10:26:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 270
+2023.01.24 22:52:02 INFO  shutting down Metals
+2023.01.25 10:44:49 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/henriqueramos.qs/Documents/Codes/Zelda/.metals/lsp.trace.json or /Users/henriqueramos.qs/Library/Caches/org.scalameta.metals/lsp.trace.json[0m
+2023.01.25 10:44:50 INFO  logging to file /Users/henriqueramos.qs/Documents/Codes/Zelda/.metals/metals.log[0m
+2023.01.25 10:44:50 INFO  Started: Metals version 0.11.10 in workspace '/Users/henriqueramos.qs/Documents/Codes/Zelda' for client Visual Studio Code 1.74.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/henriqueramos.qs/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.25 10:44:51 INFO  time: initialize in 1.63s[0m
+2023.01.25 10:44:53 WARN  Build server is not auto-connectable.[0m
+2023.01.25 10:44:53 WARN  no build tool detected in workspace '/Users/henriqueramos.qs/Documents/Codes/Zelda'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.01.25 10:44:53 WARN  no build target for: /Users/henriqueramos.qs/Documents/Codes/Zelda/src/main/App.java[0m
+2023.01.25 10:44:54 INFO  time: code lens generation in 1.62s[0m

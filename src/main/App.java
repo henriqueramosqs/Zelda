@@ -18,7 +18,6 @@ import entities.Player;
 import entities.Hearts;
 import handlers.KeyHandler;
 import maps.TileManager;
-import ranking.Ranking;
 
 public class App extends Canvas implements Runnable {
 
@@ -267,7 +266,7 @@ public class App extends Canvas implements Runnable {
 			}
 
 			if (System.currentTimeMillis() - timer >= 1000) {
-				System.out.println("FPS: " + frames);
+				// System.out.println("FPS: " + frames);
 				frames = 0;
 				timer += 1000;
 			}
@@ -280,32 +279,32 @@ public class App extends Canvas implements Runnable {
 		if (line < 0) {
 			tm.attLastMap();
 			tm.changeMap("above");
-			System.out.println("Map changed:");
-			System.out.println(tm.getCurrentMap());
+			// System.out.println("Map changed:");
+			// System.out.println(tm.getCurrentMap());
 			player.setPositionY(224);
 			return 1;
 		}
 		if (column < 0) {
 			tm.attLastMap();
 			tm.changeMap("besideLeft");
-			System.out.println("Map changed:");
-			System.out.println(tm.getCurrentMap());
+			// System.out.println("Map changed:");
+			// System.out.println(tm.getCurrentMap());
 			player.setPositionX(224);
 			return 1;
 		}
 		if (line > 14) {
 			tm.attLastMap();
 			tm.changeMap("below");
-			System.out.println("Map changed:");
-			System.out.println(tm.getCurrentMap());
+			// System.out.println("Map changed:");
+			// System.out.println(tm.getCurrentMap());
 			player.setPositionY(0);
 			return 1;
 		}
 		if (column > 15) {
 			tm.attLastMap();
 			tm.changeMap("besideRight");
-			System.out.println("Map changed:");
-			System.out.println(tm.getCurrentMap());
+			// System.out.println("Map changed:");
+			// System.out.println(tm.getCurrentMap())
 			player.setPositionX(0);
 			return 1;
 		}
